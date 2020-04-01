@@ -3,7 +3,7 @@ title = "About Me"
 slug = "about"
 +++
 
-Hi! My name is John Doe.
+Hi! My name is Nathan Butler.
 
 I am a student studying a Bachelors of Dog Training at the University of Technology Sydney.
 
